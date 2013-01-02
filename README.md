@@ -1,4 +1,6 @@
 tickt
 =====
 
-an internal ticketing system designed for entry workflow
+an internal ticketing system designed around entry workflow
+
+php using codeigniter framework and mysql
